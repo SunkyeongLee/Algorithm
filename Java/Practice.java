@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// return max value
 class Practice{
 
     
