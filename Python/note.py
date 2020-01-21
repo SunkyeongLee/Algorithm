@@ -1,4 +1,3 @@
-a = int(input())
+a = 4270//1000
 
-for i in range(1, 10):
-    print(a, "*", i, "=",a*i)
+print(a)
